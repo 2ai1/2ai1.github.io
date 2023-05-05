@@ -1,4 +1,4 @@
----
+A computer programAis said to learn from experience Ewith respect to some class of tasks Tand performance measure P, if its performance at tasks in T, as measured by P, improves with experience E---
 title: Text and Typography
 author: cotes
 date: 2019-08-08 11:33:00 +0800
